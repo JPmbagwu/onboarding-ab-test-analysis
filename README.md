@@ -19,7 +19,7 @@ Standard onboarding was seeing drop-offs, low completion rates, or slow time-to-
 - All analysis done in Python (pandas, scipy/statsmodels, matplotlib/seaborn—script included!).
 
 ## Impact
-- Identified statistically significant improvements in key onboarding metrics (e.g., X% lift in completion rate or activation—use your real numbers if shareable!).
+- Identified statistically significant improvements in key onboarding metrics.
 - Provided evidence-based recommendations that influenced the product roadmap—leading to rollout of the better variant.
 - Improved user experience for new sign-ups, which likely boosted early retention, engagement, and downstream metrics like conversion or lifetime value.
 - Reduced risk of shipping an ineffective change, saving dev time and protecting user satisfaction.
